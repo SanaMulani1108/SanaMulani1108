@@ -7,7 +7,7 @@
 <img width="859" alt="image" src="https://4kwallpapers.com/images/walls/thumbs_3t/13653.png">
 <h3 align="left">🌟About Me</h3><hr/>
 <b>I'm Web Developer and I enjoy taking complex problems and turning them into simple designs using my coding skills.Currently Working on Problem Solving Skills in DSA & exploring MERN Stack.<br>
-<p> 🔹Visit my Portfolio : <a href="https://sanamulani.netlify.app/">https://sanamulani.netlify.app/</a><br/>
+
 <hr/><b/>
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
